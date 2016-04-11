@@ -1,0 +1,33 @@
+body {
+	background: #6699FF;
+  font-family: "Arial";
+  margin: 8%;
+  }
+
+
+@media screen and (max-width: 100%) {
+   body {position: relative;}
+
+
+#Web-Title h1 {
+	font-family: Arial;
+	font-size: 40px;
+  text-align: center;
+  margin-top: 1em;
+  }
+
+#photo {
+    display: inline-block;
+    width: 30%;
+    padding: 10%;
+    margin: 10%;
+    box-shadow: 5px 5px 10px;
+}
+
+  th{
+    padding: 10px;
+  }
+
+  td {
+    padding: 10px;
+  }
